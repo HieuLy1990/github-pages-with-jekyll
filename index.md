@@ -1,3 +1,3 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+Hello, I am Hieu Ly.
+This is my GitHub page. 
+Welcome to my personal area.
